@@ -1,2 +1,3 @@
-# smsBymile
-smsspam 28 api
+# SMS BY MILE
+ห้ามเอาไปแจกจ่ายหรือขาย
+ไม่งั้นscript ทุกอย่างจะยกเลิกและโดนลบ

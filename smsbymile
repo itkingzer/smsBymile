@@ -7,7 +7,7 @@ from threading import Thread
 os.system("clear")
 print("୧•✧⠢╰┄─➤ ยินดีตอนรับสู่ sms by mile 👨‍💻 *ೃ༄")
 print(" Discord : Mile#5817 👽")
-print("\033[45m Mile luv u 💖")
+print("Mile luv u 💖")
 
 phone = input("👶 เบอร์ของไอเกรียนสถุน : ")
 num = int(input("เอากี่ครั้งดีน้อง : "))

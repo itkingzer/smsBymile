@@ -34,9 +34,9 @@ def API_1():  # SSO
             f"dCard=1358231116147&Mobile={phone}&password=098098Az&repassword=098098Az&perPrefix=Mr.&cn=Dhdhhs&sn=Vssbsh&perBirthday=5&perBirthmonth=5&perBirthyear=2545&Email=nickytom5879%40gmail.com&otp_type=OTP&otpvalue=&messageId=REGISTER"
         )
         if str(jun) in str(req.text):
-            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+            print("\033[41m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
         else:
-            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+            print("\033[41m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
     except:
         pass
 

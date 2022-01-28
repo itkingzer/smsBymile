@@ -5,9 +5,9 @@ import threading
 from threading import Thread
 
 os.system("clear")
-print("୧•✧⠢╰┄─➤ ᴡᴇʟᴄᴏᴍᴇ sms by mile 👨‍💻 *ೃ༄")
-print(" Discord : Mile#5817 👽")
-print("Mile luv u 💖")
+print("୧•✧⠢╰┄─➤ ᴡᴇʟᴄᴏᴍᴇ sms ʙʏ ᴍɪʟᴇ 👨‍💻 *ೃ༄")
+print(" Discord : ᴍɪʟᴇ#5817 👽")
+print("ᴍɪʟᴇ ʟᴜᴠ ᴜ 💖")
 
 phone = input("📲 ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ : ")
 num = int(input("ʜᴏᴡ ᴍᴀɴʏ ᴛɪᴍᴇꜱ: "))

@@ -229,7 +229,7 @@ def API_7():  # SHEIN
             "x-requested-with": "XMLHttpRequest"
         }
         req = requests.post(
-            "https://m.shein.com/ru/user/auth/sendcode?_ver=1.1.8&_lang=ru",
+            "https://m.shein.com/th/user/auth/sendcode?_ver=1.1.8&_lang=th",
             headers=headers,
             data=data)
         if str(jun) in str(req.text):

